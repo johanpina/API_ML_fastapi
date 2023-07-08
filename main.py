@@ -4,7 +4,7 @@ import pickle
 
 
 # Cargamos el modelo previamente entrenado
-with open('models/modelGB.pkl', 'rb') as Gb:
+with open('models/modelRF.pkl', 'rb') as Gb:
     modelo = pickle.load(Gb)
 
 
