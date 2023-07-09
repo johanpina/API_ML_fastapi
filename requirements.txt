@@ -1,6 +1,5 @@
 numpy
 pandas
-streamlit
 matplotlib
 gunicorn
 uvicorn
