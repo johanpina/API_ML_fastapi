@@ -5,3 +5,4 @@ matplotlib
 gunicorn
 uvicorn
 fastapi
+scikit-learn==1.2.1
