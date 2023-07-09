@@ -1,11 +1,7 @@
 numpy
 pandas
-scikit-learn
 streamlit
-seaborn
 matplotlib
-Pillow
-Flask
 gunicorn
 uvicorn
 fastapi
